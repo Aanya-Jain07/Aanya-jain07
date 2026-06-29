@@ -61,17 +61,6 @@ Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
 
 ---
 
-<div align="center">
-
-## ✦ github stats
-
-![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aanya-Jain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanya-Jain07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
-
-</div>
-
----
 
 <div align="center">
 
