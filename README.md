@@ -1,11 +1,11 @@
 <div align="center">
 
 ```
- ✦  hello, world  ✦
+ ✦  Hello, World  ✦
 ```
 
 # Aanya Jain
-### full stack developer in progress · building one component at a time
+### Full Stack Developer in progress · Building one component at a time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aanyajain31102007-a78bfa?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aanyajain31102007)
 
@@ -28,7 +28,7 @@ const aanya = {
 
 <div align="center">
 
-## ✦ tech stack
+## ✦ Tech Stack
 
 </div>
 
@@ -45,7 +45,7 @@ Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
 
 <div align="center">
 
-## ✦ projects
+## ✦ Projects
 
 </div>
 
@@ -64,7 +64,7 @@ Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
 
 <div align="center">
 
-*"the best projects are the ones you actually ship."*
+*"The best projects are the ones you actually ship."*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/aanyajain31102007)
 [![GitHub](https://img.shields.io/badge/See_my_work-GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Aanya-Jain07)
