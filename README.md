@@ -52,10 +52,10 @@ Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
 | Project | Stack | Link |
 |---|---|---|
 | 🃏 Job Listing Cards UI | React · Vite · CSS | [View Live ↗](https://lovely-kelpie-bd823e.netlify.app/) |
-| 🛒 Amazon Clone | HTML · CSS | [GitHub ↗](https://github.com/Aanya-Jain07/Amazon-Clone) |
+| 🛒 Amazon Clone | HTML · CSS | [View Live ↗](https://aanya-jain07.github.io/Amazon-Clone/) |
 | 🚆 Railway Reservation System | Python · MySQL | [GitHub ↗](https://github.com/Aanya-Jain07/railway-reservation-system) |
 | 💱 Currency Converter | HTML · CSS · JS · API | [View Live ↗](https://Aanya-Jain07.github.io/Currency_Converter) |
-| ✂️ Rock Paper Scissors | HTML · CSS · JavaScript | [GitHub ↗](https://github.com/Aanya-Jain07/Rock-Paper-Scissors) |
+| ✂️ Rock Paper Scissors | HTML · CSS · JavaScript | [View Live ↗](https://aanya-jain07.github.io/rock-paper-scissors/) |
 
 > more projects brewing... ☕
 
