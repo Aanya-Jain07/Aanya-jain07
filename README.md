@@ -1,8 +1,6 @@
 <div align="center">
 
-```
- ✦  Hello, World  ✦
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%9C%A6+Hello%2C+World+%E2%9C%A6)](https://git.io/typing-svg)
 
 # Aanya Jain
 ### Full Stack Developer in progress · Building one component at a time
@@ -28,7 +26,7 @@ const aanya = {
 
 <div align="center">
 
-## ✦ Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=%E2%9C%A6+Tech+Stack)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,7 +43,7 @@ Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
 
 <div align="center">
 
-## ✦ Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=%E2%9C%A6+Projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,7 +58,6 @@ Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
 > more projects brewing... ☕
 
 ---
-
 
 <div align="center">
 
