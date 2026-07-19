@@ -30,14 +30,14 @@ const aanya = {
 
 </div>
 
-```
-Frontend          →   HTML5  ·  CSS3  ·  Flexbox  ·  Tailwind CSS
-JavaScript        →   Vanilla JS  ·  DOM  ·  ES6+  ·  Fetch API
-React             →   Vite  ·  useState  ·  Props  ·  Component Design
-DSA               →   C++  ·  Arrays  ·  Linked Lists  ·  Logic Building
-Others            →   C  ·  JAVA  ·  Python  ·  MySQL
-Tools             →   Git  ·  GitHub  ·  VS Code  ·  Netlify
-```
+| Category | Stack |
+|---|---|
+| **Frontend** | HTML5 · CSS3 · Flexbox · Tailwind CSS |
+| **JavaScript** | Vanilla JS · DOM · ES6+ · Fetch API |
+| **React** | Vite · useState · Props · Component Design |
+| **DSA** | C++ · Arrays · Linked Lists · Logic Building |
+| **Others** | C · JAVA · Python · MySQL |
+| **Tools** | Git · GitHub · VS Code · Netlify |
 
 ---
 
